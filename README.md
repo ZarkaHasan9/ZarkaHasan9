@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ZarkaHasan9
-- 👀 I’m interested in Watching Movies
 - 🌱 I’m currently learning Java programming and doing BCA
 - 💞️ I’m looking to collaborate on for anyone 
 - 📫 How to reach me zarakahasan9@gmail.com
